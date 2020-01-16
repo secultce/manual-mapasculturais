@@ -29,5 +29,5 @@
 ## Desenvolvedores
 
 * [Untitled](desenvolvedores/untitled.md)
-* [Perguntas Frequentes](untitled.md)
+* [Perguntas Frequentes](faq.md)
 

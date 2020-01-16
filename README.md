@@ -4,9 +4,19 @@ Manual do usuário para a plataforma Mapa Cultural do Ceará. &gt;&gt; [https://
 
 _Temos:_
 
-* [Este grupo público no telegram](https://t.me/MapasCulturaisRelacionamento) para tratar sobre o relacionamento com o usuário. 
-* [A estrutura do manual](https://coggle.it/diagram/XfeOoGj7x0kesEKq/t/estrutura-tutorial-mapa-cultural)
+* [A estrutura do manual](https://coggle.it/diagram/XfeOoGj7x0kesEKq/t/estrutura-tutorial-mapa-cultural) \(adicionamos links aos tópicos criados\)
 * [Guia para formatação do manual](https://docs.google.com/document/d/1rnX3T8_94Kh-hgMNRdeNL_Jou9GSTwjn8TKmH15cxEo)
+
+### ✌ Como colaborar
+
+* Trocando ideias pelo [grupo público no telegram](https://t.me/MapasCulturaisRelacionamento) sobre o relacionamento com o usuário do Mapa Cultural. 
+* \[Ajudando a escrever o manual\]\([  https://app.gitbook.com/invite/mapas?invite=-LyiQ612aq2QJoaWY50W](
+  https://app.gitbook.com/invite/mapas?invite=-LyiQ612aq2QJoaWY50W)\)
+
+   pela ferramenta Gitbook.
+
+* \[Ajudando a revisar o manual\]\([https://app.gitbook.com/invite/mapas?invite=-LyiQ610WCCnZVdsOOAW](https://app.gitbook.com/invite/mapas?invite=-LyiQ610WCCnZVdsOOAW)\) pela ferramenta do Gitbook.
+* \[Adicionando demandas \(issues\)\]\([https://github.com/secultce/manual-mapasculturais/issues](https://github.com/secultce/manual-mapasculturais/issues)\) com sugestões e correções ao nosso repositório no GitHub.
 
 ### 👥 Tipos de usuários considerados no manual:
 

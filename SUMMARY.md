@@ -12,10 +12,11 @@
 
 * [Untitled](como-pesquisar/untitled.md)
 
-## Como contribuir <a id="como-cadastrar"></a>
+## Como contribuir
 
-* [Cadastro do Agente Coletivo](como-cadastrar/cadastro-do-agente-coletivo.md)
-* [Untitled](como-cadastrar/untitled.md)
+* [Cadastro do Agente Coletivo](como-contribuir/cadastro-do-agente-coletivo.md)
+* [Como colaborar com o projeto Mapas Culturais](como-contribuir/como-colaborar-com-o-projeto-mapas-culturais/README.md)
+  * [Guia para formatação do manual](como-contribuir/como-colaborar-com-o-projeto-mapas-culturais/formatacao-do-manual.md)
 
 ## Oportunidades no Mapas <a id="oportunidades"></a>
 

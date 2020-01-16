@@ -10,13 +10,9 @@ _Temos:_
 ### ✌ Como colaborar
 
 * Trocando ideias pelo [grupo público no telegram](https://t.me/MapasCulturaisRelacionamento) sobre o relacionamento com o usuário do Mapa Cultural. 
-* \[Ajudando a escrever o manual\]\([  https://app.gitbook.com/invite/mapas?invite=-LyiQ612aq2QJoaWY50W](
-  https://app.gitbook.com/invite/mapas?invite=-LyiQ612aq2QJoaWY50W)\)
-
-   pela ferramenta Gitbook.
-
-* \[Ajudando a revisar o manual\]\([https://app.gitbook.com/invite/mapas?invite=-LyiQ610WCCnZVdsOOAW](https://app.gitbook.com/invite/mapas?invite=-LyiQ610WCCnZVdsOOAW)\) pela ferramenta do Gitbook.
-* \[Adicionando demandas \(issues\)\]\([https://github.com/secultce/manual-mapasculturais/issues](https://github.com/secultce/manual-mapasculturais/issues)\) com sugestões e correções ao nosso repositório no GitHub.
+* [Ajudando a escrever o manual](%20https://app.gitbook.com/invite/mapas?invite=-LyiQ612aq2QJoaWY50W) pela ferramenta Gitbook.
+* [Ajudando a revisar o manual ](https://app.gitbook.com/invite/mapas?invite=-LyiQ610WCCnZVdsOOAW)pela ferramenta do Gitbook.
+* [Adicionando demandas \(issues\)](https://github.com/secultce/manual-mapasculturais/issues) com sugestões e correções ao nosso repositório no GitHub.
 
 ### 👥 Tipos de usuários considerados no manual:
 

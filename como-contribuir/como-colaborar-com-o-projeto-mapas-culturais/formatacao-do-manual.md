@@ -6,19 +6,19 @@ Dentro de uma página usar o formato Heading 2 para organizar o texto.
 
 ![](https://lh5.googleusercontent.com/SvPY5NpBbUmzWF9-T0MBF4eF9FR54UsJh-BvPmarS3HLY5_NrLh1hhpty2NpM0zik35tIVEUX7ueRqBRO5BX1ZErFdDBu1Ry6fgsbMGcawYNq1Xim199pl8pzkbfZEUPqSmjK_YG)
 
-### **Indicação de botões no sistema**
+### 🎛 **Indicação de botões no sistema**
 
 Usar a formatação `Code` para destacar os textos que fazem referência aos botões do sistema. ****
 
 ![](https://lh4.googleusercontent.com/55mbjd1f9gLuEUufuQO_673_8ggYRY0A2CXcmYA6MwPEWqkXLEvDsu0QseX6aCbAvZsFE4DiO_7kLpeb2qe3mOuI02IXNriT7AC_QfS3a40tEv43uM1rvF7XVHjRyXpLWqIVU5Rs)
 
-### **Observação / avisos / notas, alertas / cuidado e atenção**
+### 👀 **Observação / avisos / notas, alertas / cuidado e atenção**
 
 Usar a opção Hit para observações, alertas e atenção.
 
 ![](https://lh4.googleusercontent.com/KLZQLOxpHDClrKpKepPYlWIFIw2qc3oTZXxkZdObv3jChMOwSExO_nt_JPizsZwBfpWq2X-lbBv-ngSqDm-rPcijU60Jc2UlJYRkpxkvUb7qN8ZQdOmjPAgEq8KfBmyLZel1LLgB)
 
-### **Adição de imagem**
+### 🖼 **Adição de imagem**
 
 Quando foi inserir um a imagem sempre seguir essas regras:
 
@@ -35,7 +35,7 @@ Quando foi inserir um a imagem sempre seguir essas regras:
 
 ![](https://lh6.googleusercontent.com/aGwLfulpqT4_6RNIdwmAzwxwEUtCxpN8s6lTCLI0urTbjKUZRUupWxP83jImX6lOcbOucgJlZBuCgfspTz6unawjIZAe3_w4fI5YhiUcuLfC05GfIIloRno8vRW6phdWxCmzwFBQ)
 
-### **Marcação de imagem**
+### ✏ **Marcação de imagem**
 
 Usar como opções do programa Greenshot:
 
@@ -44,7 +44,7 @@ Usar como opções do programa Greenshot:
 
 ![](https://lh5.googleusercontent.com/UgX98oijENxGZoJNPdzfFGUmoMjzBNknkTVpewR949GiTXk1g3BQg3XCMWgAXNZ9Ms0WSaJrX1_gc-f3L5KLJWfX7ry-pS9U-RGgddSNArLhIZuUFzbfWgJ-3on02k3rNyJQTJaL)
 
-### **Link para páginas dentro do manual**
+### 🔗 **Link para páginas dentro do manual**
 
 Usar a opção Page Link para linkar com outras páginas.
 

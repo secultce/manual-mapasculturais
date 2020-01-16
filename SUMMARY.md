@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Apresentação](README.md)
+* [Apresentação do Manual do Mapas Culturais](README.md)
 
 ## Primeiros passos
 

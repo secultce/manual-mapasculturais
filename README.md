@@ -5,14 +5,14 @@ Manual do usuário para a plataforma Mapa Cultural do Ceará. &gt;&gt; [https://
 _Temos:_
 
 * [A estrutura do manual](https://coggle.it/diagram/XfeOoGj7x0kesEKq/t/estrutura-tutorial-mapa-cultural) \(adicionamos links aos tópicos criados\)
-* [Guia para formatação do manual](https://docs.google.com/document/d/1rnX3T8_94Kh-hgMNRdeNL_Jou9GSTwjn8TKmH15cxEo)
+* [Guia para formatação do manual](https://mapas.gitbook.io/tutorial-para-o-usuario-do-mapa-cultural/como-contribuir/como-colaborar-com-o-projeto-mapas-culturais/formatacao-do-manual)
 
 ### ✌ Como colaborar
 
 * Trocando ideias pelo [grupo público no telegram](https://t.me/MapasCulturaisRelacionamento) sobre o relacionamento com o usuário do Mapa Cultural. 
 * [Ajudando a revisar o manual ](https://app.gitbook.com/invite/mapas?invite=-LyiQ610WCCnZVdsOOAW)pela ferramenta do Gitbook.
 * [Adicionando demandas \(issues\)](https://github.com/secultce/manual-mapasculturais/issues) com sugestões e correções ao nosso repositório no GitHub.
-* Quer ajudar a escrever, entre em contato pelo mapa@secult.ce.gov.br
+* Para ajudar a escrever, entre em contato pelo mapa@secult.ce.gov.br
 
 ### 👥 Tipos de usuários considerados no manual:
 

@@ -40,3 +40,5 @@ Em alguns editais é necessario escolher a **categoria** da sua inscrição.
 
 ![Selecionar uma op&#xE7;&#xE3;o](../.gitbook/assets/passo-a-passo-para-inscricao-07.png)
 
+Para indicar a Pessoa Jurídica Proponente, clique no botão `adicionar` no campo **“Instituição responsável”**. Lembra daquele cadastro de grupo que você fez? É aqui que ela vai entrar! Comece a escrever o nome e ele já deve aparecer na lista. 
+

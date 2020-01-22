@@ -58,5 +58,27 @@ Para adicionar o Coletivo \(instituição SEM CNPJ\) basta seguir o mesmo proced
 
 ### Preencher os campos de informação e subir os arquivos anexos <a id="h.vhwq5qp0qn1t"></a>
 
-As perguntas que são obrigatórias, possuem um **\* \(asterisco\)** no título. Existem alguns tipos de pergunta
+As perguntas que são obrigatórias, possuem um **\* \(asterisco\)** no título. 
+
+Pergunta onde você deve digitar um texto. Clique no botão `Informe`, depois digite o texto na caixa que abrirá e clique no botão de `OK`
+
+![1 Informe \| 2 Caixa de texto \| 3 Bot&#xE3;o Ok](../.gitbook/assets/passo-a-passo-para-inscricao-12%20%281%29.png)
+
+Pergunta onde você selecionará uma resposta. Primeiro clique no botão `Informe`, depois clique na seta para exibir as opções da lista. Selecione uma opção e clique no botão `OK`.
+
+![1 Informe \| 2 Seta para exibir as op&#xE7;&#xF5;es \| 3 Bot&#xE3;o ok](../.gitbook/assets/passo-a-passo-para-inscricao-13.png)
+
+pergunta para inserir uma data. Você deve iniciar selecionando o ano, depois o mês e por último marcar o dia.
+
+Perguntas onde é preciso subir documentos que estão no seu computador. Para isso, clique no botão `Enviar`, depois em `Escolher arquivo`. Para enviar o arquivo clique no botão `Enviar anexo` 
+
+![1 Enviar \| 2 Escolher Arquivo \| 3 Enviar anexo](../.gitbook/assets/passo-a-passo-para-inscricao-14.png)
+
+Se precisar substituir o arquivo, clique no botão`Editar`.
+
+![Bot&#xE3;o Editar](../.gitbook/assets/passo-a-passo-para-inscricao-15.png)
+
+{% hint style="warning" %}
+Para se certificar que você subiu o arquivo corretamente, basta clicar no link com o nome do arquivo anexado.
+{% endhint %}
 

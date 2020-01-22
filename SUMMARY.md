@@ -30,5 +30,8 @@
 ## Desenvolvedores
 
 * [Untitled](desenvolvedores/untitled.md)
-* [Perguntas Frequentes](faq.md)
+
+## Perguntas Frequentes
+
+* [Como faço para sair do mapas?](perguntas-frequentes/como-sair-mapas.md)
 

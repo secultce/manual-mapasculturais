@@ -40,5 +40,23 @@ Em alguns editais é necessario escolher a **categoria** da sua inscrição.
 
 ![Selecionar uma op&#xE7;&#xE3;o](../.gitbook/assets/passo-a-passo-para-inscricao-07.png)
 
-Para indicar a Pessoa Jurídica Proponente, clique no botão `adicionar` no campo **“Instituição responsável”**. Lembra daquele cadastro de grupo que você fez? É aqui que ela vai entrar! Comece a escrever o nome e ele já deve aparecer na lista. 
+Para indicar a Pessoa Jurídica Proponente, clique no botão `adicionar` no campo **“Instituição responsável”**. 
+
+![Bot&#xE3;o adicionar](../.gitbook/assets/passo-a-passo-para-inscricao-08.png)
+
+Clique no botão `adicionar` e digite no campo **"Selecionar Instituição responsável"** o nome da instituição pessoa jurídica proponente, que foi cadastrado como Agente Coletivo.
+
+![1 Adcionar \| 2 Buscar por nome](../.gitbook/assets/passo-a-passo-para-inscricao-09.png)
+
+Selecione a instituição responsável clicando, para seguir com a inscrição.
+
+![1 Adicionar \| 2 Buscar por nome \| 3 Selecionar institui&#xE7;&#xE3;o](../.gitbook/assets/passo-a-passo-para-inscricao-10.png)
+
+Para adicionar o Coletivo \(instituição SEM CNPJ\) basta seguir o mesmo procedimento no item Coletivo
+
+![Adicionar Coletivo](../.gitbook/assets/passo-a-passo-para-inscricao-12.png)
+
+### Preencher os campos de informação e subir os arquivos anexos <a id="h.vhwq5qp0qn1t"></a>
+
+As perguntas que são obrigatórias, possuem um **\* \(asterisco\)** no título. Existem alguns tipos de pergunta
 

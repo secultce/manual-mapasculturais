@@ -1,4 +1,4 @@
-# Passo a passo para inscrição
+# Como se inscrever nos editais
 
 Bem-vindo ao passo a passo de como fazer a sua inscrição nos Editais da Secretaria da Cultura do Estado do Ceará.
 

@@ -14,7 +14,7 @@ Usar a formatação `Code` para destacar os textos que fazem referência aos bot
 
 ### \*\*\*\*👀 **Observação / avisos / notas, alertas / cuidado e atenção**
 
-Usar a opção Hit para observações, alertas e atenção.
+Usar a opção Hit para observações, alertas e atenção. Basta clicar no ícone para alterar o tipo.
 
 ![](https://lh4.googleusercontent.com/KLZQLOxpHDClrKpKepPYlWIFIw2qc3oTZXxkZdObv3jChMOwSExO_nt_JPizsZwBfpWq2X-lbBv-ngSqDm-rPcijU60Jc2UlJYRkpxkvUb7qN8ZQdOmjPAgEq8KfBmyLZel1LLgB)
 

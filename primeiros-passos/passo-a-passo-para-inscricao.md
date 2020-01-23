@@ -84,3 +84,29 @@ Se precisar substituir o arquivo, clique no botão`Editar`.
 Para se certificar que você subiu o arquivo corretamente, basta clicar no link com o nome do arquivo anexado.
 {% endhint %}
 
+### Concluindo a inscrição <a id="h.2xy2erez8l06"></a>
+
+Você pode parar a sua inscrição a qualquer momento e continuá-la depois. Se você, por exemplo, não está seguro se tem os arquivos corretos, quer ler novamente o edital ou tiver qualquer outro inconveniente, você pode retomar a sua inscrição de onde parou clicando em seu perfil e, depois, em minhas inscrições.
+
+![Minhas inscri&#xE7;&#xF5;es](../.gitbook/assets/passo-a-passo-para-inscricao-17.png)
+
+Lá estará a sua inscrição que foi iniciada na aba **rascunho**. Bastando clicar na inscrição para retomá-la ou no botão `editar`.
+
+![Bot&#xE3;o editar](../.gitbook/assets/passo-a-passo-para-inscricao-18.png)
+
+Após verificar as informações da sua inscrição e ver que tudo está correto, clique no botão `enviar inscrição`. 
+
+![Enviar inscri&#xE7;&#xE3;o](../.gitbook/assets/passo-a-passo-para-inscricao-19.png)
+
+{% hint style="danger" %}
+Atenção: essa ação é definitiva, então certifique-se que todos os documentos e dados estão em ordem.
+{% endhint %}
+
+Pronto, sua inscrição foi concluída. Perceba que você será direcionado para uma página com todos os dados do proponente e do questionário preenchido.
+
+![Inscri&#xE7;&#xE3;o enviada](../.gitbook/assets/passo-a-passo-para-inscricao-20.png)
+
+Todas as inscrições que você fizer no mapas ficam registradas na lista de **minhas inscrições**. Para ter acesso, basta clicar na foto do perfil, lá no canto superior à direita, e depois em `minhas inscrições`. Desta vez, sua inscrição estará na aba **Enviadas** e não mais em **Rascunhos**:
+
+![Enviada](../.gitbook/assets/passo-a-passo-para-inscricao-21.png)
+

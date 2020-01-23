@@ -21,29 +21,25 @@ O cadastro da Pessoa Jurídica ou Grupo Informal \(Agente Coletivo\) é muito se
 
 ![1 Escolher a op&#xE7;&#xE3;o Coletivo](../.gitbook/assets/2020-01-09-14_11_56.png)
 
-### Informações obrigatórias para o cadastro
-
-Preencha as informações obrigatórias para validar o seu perfil de agente coletivo. 
+Preencha as informações obrigatorias para validar o seu perfil de agente coletivo. 
 
 1. Nome pessoal, social, artístico ou profissional
 2. Descrição curta
 3. Nome ou Razão Social
 4. Email Principal
 5. Telefone Principal
-6. Localização
-7. Área de atuação
 
 ![](../.gitbook/assets/2020-01-10-10_31_25-mapa-cultural-do-ceara-mapa-cultural-do-ceara%20%281%29.png)
+
+O campo da localização fica logo abaixo e você deve digitar o seu endereço e indicar se outras pessoas podem ver sua localização \(opção: pública\) ou não \(opção: privada\).
 
 {% hint style="info" %}
 **OBSERVAÇÃO:** o Grupo Informal não precisa preencher o campo de CNPJ, Código de Natureza Juridica e Código de Atividade Principal. 
 {% endhint %}
 
-O campo da localização fica logo abaixo e você deve digitar o seu endereço e indicar se outras pessoas podem ver sua localização \(opção: pública\) ou não \(opção: privada\).
-
 1. CEP
 2. Estado
-3. Município
+3. Municipio
 4. Bairro
 5. Logradouro
 6. Número
@@ -54,13 +50,11 @@ O campo da localização fica logo abaixo e você deve digitar o seu endereço e
 
 O campo com a seleção da `área de atuação` fica na lateral. As opções aparecem na medida que você escreve. Você pode escolher quantas áreas quiser da lista de opções.
 
-![1 &#xC1;rea de Atua&#xE7;&#xE3;o \| 2 Tags \| 3 Seguir](../.gitbook/assets/2020-01-13-09_40_22-mapa-cultural-do-ceara-mapa-cultural-do-ceara.png)
-
-### Informações complementares
-
 Use a seção de `TAGS` para inserir outra área de atuação que não esteja listada ou uma palavra chave sobre o seu perfil. As tags, assim como a área de atuação,podem ser utilizadas para que outras pessoas possam encontrar o perfil da Instituição ou Grupo. Você também pode inserir quantas tags quiser.
 
 Também do lado direito, você encontra a seção `SEGUIR` com o ícone das redes sociais Twitter, Facebook, Instagram. Clicando em cada uma delas, você pode adicionar o endereço das suas redes sociais ao seu perfil do mapas.
+
+![1 &#xC1;rea de Atua&#xE7;&#xE3;o \| 2 Tags \| 3 Seguir](../.gitbook/assets/2020-01-13-09_40_22-mapa-cultural-do-ceara-mapa-cultural-do-ceara.png)
 
 Para anexar histórico, currículo, release, clipping de mídia ou outros tipos de documentos, vá para o topo da página e clique no sinal de `+` ao lado da guia ****`Downloads`, que está na lateral direita. Digite o título do documento, depois clique no botão `Escolher arquivo` e selecione, no seu computador, o documento desejado. Por fim, clique em**`enviar`**. Agora você verá que o documento aparecerá automaticamente na seção downloads.
 
@@ -74,7 +68,7 @@ Depois que colocar todas as informações obrigatórias no Agente Coletivo, clic
 
 Para adicionar as imagens, desça para a seção **galeria** e clique no botão `Adicionar imagem`. Em seguida, clique no botão`Escolher arquivo` e selecione, no seu computador, a imagem desejada, você pode colocar um **Título** na imagem.  Por fim, clique em enviar. Você verá que a imagem aparecerá automaticamente na seção galeria. Para inserir mais imagens, repita a mesma operação.
 
-{% hint style="danger" %}
+{% hint style="info" %}
 **Atenção:** As imagens precisam estar no formato JPG ou PNG
 {% endhint %}
 

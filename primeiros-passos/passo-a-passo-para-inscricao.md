@@ -36,6 +36,8 @@ Você verá o **NÚMERO DE INSCRIÇÃO** da ficha de inscrição. Será a partir
 
 ![N&#xFA;mero da inscri&#xE7;&#xE3;o](../.gitbook/assets/passo-a-passo-para-inscricao-06.png)
 
+### Preencher os campos de informação e subir os arquivos anexos <a id="h.vhwq5qp0qn1t"></a>
+
 Em alguns editais é necessario escolher a **categoria** da sua inscrição. 
 
 ![Selecionar uma op&#xE7;&#xE3;o](../.gitbook/assets/passo-a-passo-para-inscricao-07.png)
@@ -53,10 +55,6 @@ Selecione a instituição responsável clicando, para seguir com a inscrição.
 ![1 Adicionar \| 2 Buscar por nome \| 3 Selecionar institui&#xE7;&#xE3;o](../.gitbook/assets/passo-a-passo-para-inscricao-10.png)
 
 Para adicionar o Coletivo \(instituição SEM CNPJ\) basta seguir o mesmo procedimento no item Coletivo
-
-![Adicionar Coletivo](../.gitbook/assets/passo-a-passo-para-inscricao-12.png)
-
-### Preencher os campos de informação e subir os arquivos anexos <a id="h.vhwq5qp0qn1t"></a>
 
 As perguntas que são obrigatórias, possuem um **\* \(asterisco\)** no título. 
 

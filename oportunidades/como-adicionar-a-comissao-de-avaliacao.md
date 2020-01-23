@@ -6,9 +6,7 @@ Peça aos avaliadores que informem o nome do agente cadastrado \(número 1 da im
 
 ![1 - campo do nome social \| 2 - link do perfil do agente cadastrado.](../.gitbook/assets/como-adicionar-a-comissao-de-avaliacao-01.png)
 
-{% hint style="info" %}
-Existem alguns casos em que o mesmo avaliador possui mais de um perfil cadastrado no mapa, neste caso solicite o link do agente \(número 2\) para que se consiga encontrar o  correto.
-{% endhint %}
+> Existem alguns casos em que o mesmo avaliador possui mais de um perfil cadastrado no mapa, neste caso solicite o link do agente \(número 2\) para que se consiga encontrar o  correto.
 
 O próximo passo é entrar na oportunidade criada, no modo de edição, e clicar na aba `Configuração da Avaliação`.
 
@@ -20,9 +18,7 @@ Agora, basta clicar no botão `Adicionar avaliador` , depois escrever o nome do 
 
 ![1 - bot&#xE3;o adicionar avaliador \| 2 - inserir o nome do avaliador \| 3 - selecionar o avaliador.](../.gitbook/assets/como-adicionar-a-comissao-de-avaliacao-03.png)
 
-{% hint style="danger" %}
-**Atenção:** você não deve inserir como avaliador os agentes que administram a oportunidade.
-{% endhint %}
+> **Atenção:** você não deve inserir como avaliador os agentes que administram a oportunidade.
 
 Um quadro amarelo ficará ativo até o avaliador confirmar o solicitação enviada por você.
 

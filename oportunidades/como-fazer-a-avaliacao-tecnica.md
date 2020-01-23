@@ -44,9 +44,7 @@ A tabela dos inscritos possui cinco colunas com as seguintes informações:
 
 No exemplo abaixo só foi avaliado o primeiro projeto da lista que recebeu nota 20. 
 
-{% hint style="info" %}
-Nota: o sistema organiza automaticamente os projetos da maior para a menor nota.
-{% endhint %}
+> Nota: o sistema organiza automaticamente os projetos da maior para a menor nota.
 
 ![Cabe&#xE7;alho da tabela dos inscritos.](../.gitbook/assets/como-fazer-a-avaliacao-tecnica-05.png)
 
@@ -58,13 +56,9 @@ Para ter acesso a ficha basta clicar no número da inscrição. No exemplo abaix
 
 ![1 - listagem das inscri&#xE7;&#xF5;es \| 2 - projeto inscrito \| 3 - campos das notas e parecer.](../.gitbook/assets/como-fazer-a-avaliacao-tecnica-06.png)
 
-{% hint style="info" %}
-Nota: o sistema só permite `Salvar e Avançar` para o próximo projeto quando todas as notas e o parecer técnico forem preenchidos.
-{% endhint %}
+> Nota: o sistema só permite `Salvar e Avançar` para o próximo projeto quando todas as notas e o parecer técnico forem preenchidos.
 
-{% hint style="info" %}
-Nota: é possível fazer alterações nas notas e no parecer técnico após clicar no botão de `Salvar e Avançar`.
-{% endhint %}
+> Nota: é possível fazer alterações nas notas e no parecer técnico após clicar no botão de `Salvar e Avançar`.
 
 Descendo na parte do central você encontrará o perfil do Agente Responsável e, dependendo do tipo da inscrição, o perfil da Instituição Responsável \(grupo formalizado com CNPJ\) ou do Coletivo \(grupo informal\). Para ver as fotos, vídeos, documentos e eventos cadastradas no perfil, basta clicar no botão`Visualizar Portfólio`.
 

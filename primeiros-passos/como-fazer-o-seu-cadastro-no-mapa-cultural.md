@@ -12,7 +12,9 @@ Aqui está o link para você criar seu cadastro no Mapa Cultural do Ceará. Par
 
 Você deve ser direcionado para a página de edição do seu perfil. Vamos seguir o nosso passo a passo utilizando como exemplo a Ana Larissa Coelho. O Cadastro Individual é bem simples. Logo acima do seu nome social \(o nome como você gosta de ser chamado e como será encontrado na plataforma do Mapa Cultural\), deve aparecer a palavra “individual”. Isso que dizer basicamente que esse é um cadastro de uma pessoa física, com CPF. 
 
+{% hint style="danger" %}
 **ATENÇÃO**  você deve fazer **primeiro** seu cadastro na plataforma do Mapa Cultural como **Pessoa Física \(Agente Individual\)**. 
+{% endhint %}
 
 ![1 - nome social \| 2 - descri&#xE7;&#xE3;o curta \| 3 - nome completo \| 4 - &#xE1;rea de atua&#xE7;&#xE3;o.](../.gitbook/assets/como-fazer-o-seu-cadastro-no-mapa-cultural-02.png)
 

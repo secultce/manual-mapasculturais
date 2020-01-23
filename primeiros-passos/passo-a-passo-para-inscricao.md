@@ -68,7 +68,9 @@ Pergunta onde você selecionará uma resposta. Primeiro clique no botão `Inform
 
 ![1 Informe \| 2 Seta para exibir as op&#xE7;&#xF5;es \| 3 Bot&#xE3;o ok](../.gitbook/assets/passo-a-passo-para-inscricao-13.png)
 
-pergunta para inserir uma data. Você deve iniciar selecionando o ano, depois o mês e por último marcar o dia.
+Pergunta para inserir uma data. Você deve iniciar selecionando o ano, depois o mês e por último marcar o dia e clicar no botão `ok`.
+
+![1 Ano \| 2 M&#xEA;s \| 3 Dia ](../.gitbook/assets/passo-a-passo-para-inscricao-16.png)
 
 Perguntas onde é preciso subir documentos que estão no seu computador. Para isso, clique no botão `Enviar`, depois em `Escolher arquivo`. Para enviar o arquivo clique no botão `Enviar anexo` 
 

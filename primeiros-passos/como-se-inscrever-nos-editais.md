@@ -106,5 +106,7 @@ Pronto, sua inscrição foi concluída. Perceba que você será direcionado para
 
 Todas as inscrições que você fizer no mapas ficam registradas na lista de **minhas inscrições**. Para ter acesso, basta clicar na foto do perfil, lá no canto superior à direita, e depois em `minhas inscrições`. Desta vez, sua inscrição estará na aba **Enviadas** e não mais em **Rascunhos**:
 
-![Enviada](../.gitbook/assets/passo-a-passo-para-inscricao-21.png)
+![Enviadas](../.gitbook/assets/passo-a-passo-para-inscricao-21.png)
+
+
 

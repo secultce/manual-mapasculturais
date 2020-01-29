@@ -9,7 +9,6 @@ _Temos:_
 
 ### ✌ Como colaborar
 
-* Trocando ideias pelo [grupo público no telegram](https://t.me/MapasCulturaisRelacionamento) sobre o relacionamento com o usuário do Mapa Cultural. 
 * [Ajudando a revisar o manual ](https://app.gitbook.com/invite/mapas?invite=-LyiQ610WCCnZVdsOOAW)pela ferramenta do Gitbook.
 * [Adicionando demandas \(issues\)](https://github.com/secultce/manual-mapasculturais/issues) com sugestões e correções ao nosso repositório no GitHub.
 * Para ajudar a escrever, entre em contato pelo mapa@secult.ce.gov.br

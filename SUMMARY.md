@@ -7,6 +7,7 @@
 * [Sobre o Mapa Cultural do Ceará](primeiros-passos/sobre-o-mapa-cultural-do-ceara.md)
 * [Como fazer o seu cadastro no Mapa Cultural](primeiros-passos/como-fazer-o-seu-cadastro-no-mapa-cultural.md)
 * [Como se inscrever nos editais](primeiros-passos/como-se-inscrever-nos-editais.md)
+* [Meu painel](primeiros-passos/meu-painel.md)
 
 ## Como pesquisar
 

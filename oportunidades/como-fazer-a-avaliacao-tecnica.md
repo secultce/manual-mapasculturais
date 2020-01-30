@@ -2,9 +2,9 @@
 
 ### Requisito para avaliar e o aceite do convite
 
-É preciso estar cadastrado no Mapa Cultural do Ceará para fazer uma avaliação. Caso não tenha cadastro veja a seção sobre [como fazer o seu cadastro no Mapa Cultural](https://cultura-ceara.gitbook.io/tutorial-para-o-usuario-do-mapa-cultural/primeiros-passos/como-fazer-o-seu-cadastro-no-mapa-cultural).
+É preciso estar cadastrado no Mapa Cultural do Ceará para fazer uma avaliação. Caso não tenha cadastro veja a seção sobre [como fazer o seu cadastro no Mapa Cultural](https://mapas.gitbook.io/tutorial-para-o-usuario-do-mapa-cultural/primeiros-passos/como-fazer-o-seu-cadastro-no-mapa-cultural).
 
-Você precisa informar o coordenador do edital o nome do agente cadastrado \(número 1 da imagem\) ou o link do agente \(número 2\).
+Você precisa informar ao coordenador do edital o nome do agente cadastrado \(número 1 da imagem\) ou o link do agente \(número 2\).
 
 ![1 - nome do agente cadastrado \| 2 - link do agente cadastrado.](../.gitbook/assets/como-adicionar-a-comissao-de-avaliacao-01.png)
 

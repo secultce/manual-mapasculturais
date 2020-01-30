@@ -22,6 +22,7 @@
 ## Oportunidades no Mapas <a id="oportunidades"></a>
 
 * [Como configurar a comissão de avaliação](oportunidades/como-adicionar-a-comissao-de-avaliacao.md)
+* [Como fazer a avaliação documental](oportunidades/como-fazer-a-avaliacao-documental.md)
 * [Como fazer a avaliação técnica](oportunidades/como-fazer-a-avaliacao-tecnica.md)
 
 ## Gestores da Rede Mapas

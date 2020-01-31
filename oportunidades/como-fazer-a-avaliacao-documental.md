@@ -53,7 +53,7 @@ Para ter acesso a ficha basta clicar no número da inscrição. No exemplo abaix
 O campo de habilitação só aparece depois que um campo do questionário for clicado. Na imagem abaixo foi selecionado o campo da categoria. Além dele, também é possível selecionar o perfil do agente responsável pela inscrição, a instituição responsável ou o coletivo e todas as perguntas do questionário.
 {% endhint %}
 
-![1 - lista de projetos \| 2 - ficha de inscri&#xE7;&#xE3;o \| 3 - campo de a ](../.gitbook/assets/como-fazer-a-avaliacao-documental-06.png)
+![1 - lista de projetos \| 2 - ficha de inscri&#xE7;&#xE3;o \| 3 - campo da avalia&#xE7;&#xE3;o.](../.gitbook/assets/como-fazer-a-avaliacao-documental-06.png)
 
 Descendo na parte do central você encontrará o perfil do Agente Responsável e, dependendo do tipo da inscrição, o perfil da Instituição Responsável \(grupo formalizado com CNPJ\) ou do Coletivo \(grupo informal\). Este campo possui os dados profissionais que devem ser inseridos no perfil do proponente como: currículo, fotos e clipping de mídia \(ver no edital os itens exigidos\). Para ver as fotos, vídeos, documentos e eventos cadastradas no perfil, basta clicar no botão`Visualizar Portfólio`.
 

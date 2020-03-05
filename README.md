@@ -1,6 +1,6 @@
 # Apresentação do Manual do Mapas Culturais
 
-Manual do usuário para a plataforma Mapa Cultural do Ceará. &gt;&gt; [https://mapas.gitbook.io/tutorial-para-o-usuario-do-mapa-cultural/](https://mapas.gitbook.io/tutorial-para-o-usuario-do-mapa-cultural/)
+Manual do usuário para a plataforma Mapa Cultural do Ceará. &gt;&gt; [https://cultura-ceara.gitbook.io/tutorial-para-o-usuario-do-mapa-cultural/](https://cultura-ceara.gitbook.io/tutorial-para-o-usuario-do-mapa-cultural/) 
 
 _Temos:_
 

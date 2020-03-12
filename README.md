@@ -71,7 +71,7 @@ _Outras Referências:_
 * [https://coggle.it/](https://coggle.it/) para o desenhar a estrutura no formato de mapa mental
 * [https://getgreenshot.org/](https://getgreenshot.org/) para printar a tela e fazer edições na imagem
 * [https://obsproject.com/](https://obsproject.com/) para a gravação da tela
-* [https://www.gitbook.com/](https://www.gitbook.com/) para ogranizar a documentação
+* [https://www.gitbook.com/](https://www.gitbook.com/) para organizar a documentação
 
 ## 📍 Sobre o projeto Mapas Culturais
 

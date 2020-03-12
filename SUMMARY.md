@@ -9,10 +9,6 @@
 * [Como se inscrever nos editais](primeiros-passos/como-se-inscrever-nos-editais.md)
 * [Meu painel](primeiros-passos/meu-painel.md)
 
-## Como pesquisar
-
-* [Untitled](como-pesquisar/untitled.md)
-
 ## Como contribuir
 
 * [Cadastro do Agente Coletivo](como-contribuir/cadastro-do-agente-coletivo.md)
@@ -26,14 +22,6 @@
 * [Como configurar a comissão de avaliação](oportunidades/como-adicionar-a-comissao-de-avaliacao.md)
 * [Como fazer a avaliação documental](oportunidades/como-fazer-a-avaliacao-documental.md)
 * [Como fazer a avaliação técnica](oportunidades/como-fazer-a-avaliacao-tecnica.md)
-
-## Gestores da Rede Mapas
-
-* [Untitled](gestores-da-rede-mapas/untitled.md)
-
-## Desenvolvedores
-
-* [Untitled](desenvolvedores/untitled.md)
 
 ## Perguntas Frequentes
 

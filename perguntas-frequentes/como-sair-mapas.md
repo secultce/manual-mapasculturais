@@ -2,7 +2,7 @@
 description: Procedimento para solicitar a exclusão da conta no Mapa Cultural do Ceará.
 ---
 
-# Como faço para sair do mapas?
+# Como faço para sair do Mapas?
 
 Você deverá enviar um e-mail para **mapa@secult.ce.gov.br** com as seguintes informações.
 

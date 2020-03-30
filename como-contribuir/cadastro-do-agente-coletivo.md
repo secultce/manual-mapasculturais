@@ -1,15 +1,13 @@
 ---
 description: >-
   Caso o proponente do seu projeto seja uma Pessoa Jurídica ou você precise
-  criar o perfil do seu Grupo Informal, vamos precisar adicionar mais um agente
-  à sua conta.
+  criar o perfil do seu Grupo, vamos precisar adicionar mais um agente à sua
+  conta.
 ---
 
 # Cadastro do Agente Coletivo
 
-Primeiro, clique na foto do seu perfil 
-
-Em seguida, clique no nome ****`Meus Agentes`
+Primeiro, clique na foto do seu perfil e, em seguida, clique no nome ****`Meus Agentes`
 
 ![](../.gitbook/assets/2020-01-09-10_13_05-mapa-cultural-do-ceara-painel%20%281%29.png)
 
@@ -36,7 +34,7 @@ Preencha as informações obrigatórias para validar o seu perfil de agente cole
 ![](../.gitbook/assets/2020-01-10-10_31_25-mapa-cultural-do-ceara-mapa-cultural-do-ceara%20%281%29.png)
 
 {% hint style="info" %}
-**OBSERVAÇÃO:** o Grupo Informal não precisa preencher o campo de CNPJ, Código de Natureza Juridica e Código de Atividade Principal. 
+**OBSERVAÇÃO:** o Grupo Informal não precisa preencher o campo de CNPJ, Código de Natureza Jurídica e Código de Atividade Principal. 
 {% endhint %}
 
 O campo da localização fica logo abaixo e você deve digitar o seu endereço e indicar se outras pessoas podem ver sua localização \(opção: pública\) ou não \(opção: privada\).

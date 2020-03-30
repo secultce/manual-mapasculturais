@@ -25,5 +25,5 @@
 
 ## Perguntas Frequentes
 
-* [Como faço para sair do mapas?](perguntas-frequentes/como-sair-mapas.md)
+* [Como faço para sair do Mapas?](perguntas-frequentes/como-sair-mapas.md)
 

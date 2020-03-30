@@ -1,10 +1,10 @@
 # Meu painel
 
-No Painel de Controle do Mapa da Cultura o Agente Individual tem acesso a ferramentas para edição e criação de agentes individuais e coletivos, eventos, espaços e oportunidade. Acessar as inscrições e avaliações caso você tenha sido escolhido para ser parecerista. 
+No Painel de Controle do Mapa da Cultura você tem acesso a ferramentas para edição e criação de agentes individuais e coletivos, eventos, espaços e oportunidade. Acessar as inscrições e avaliações caso você tenha sido escolhido para ser parecerista. 
 
 ![Painel de Controle](../.gitbook/assets/meu-painel01.png)
 
-Para acessar e editar o seu perfil de Agente Individual, isso pode ser feito clicando no nome do usuario ou em Meu perfil.  
+Para acessar e editar o seu perfil de Agente Individual, isso pode ser feito clicando no nome do usuário ou em Meu perfil.  
 
 ![Acesso ao perfil de Agente Individual](../.gitbook/assets/meu-painel02.png)
 
@@ -23,7 +23,7 @@ No Painel de Controle acessando meus eventos, você consegue visualizar 5 abas: 
 ![Ativos \| Concedidos \| Rascunho \| Lixeira \| Arquivo](../.gitbook/assets/meu-painel05.png)
 
 **Ativos:** Eventos criados e publicados. Esse eventos tem botões para : Editar, Tornar rascunho, excluir e arquivar.  
-**Conceditos:** Eventos criados e publicados por outros agentes individuais, onde o seu agente indiviual foi colocado como administrador. Sendo assim, você pode editar e acessar as mesma funções dos editais ativos.   
+**Concedidos:** Eventos criados e publicados por outros agentes individuais, onde o seu agente individual foi colocado como administrador. Sendo assim, você pode editar e acessar as mesma funções dos editais ativos.   
 **Rascunho:** Eventos criados e que não foram publicados.  
 **Lixeira:** Eventos criados que foram descartados e jogando na lixeira  
 **Aquivo**: Eventos que foram criados, publicados e arquivado pelo agente responsável pelo evento
@@ -42,10 +42,10 @@ Acessando Meus Agentes voccê pode visualizar todos os seus agentes ativos, conc
 
 ![Meus Agentes \| Ativos \| Concedidos \| Rascunhos \| Lixeira \| Arquivo](../.gitbook/assets/meu-painel07.png)
 
-**Ativos:** Agentes públicados no Mapa   
-**Concedidos:** São agente onde você consegue editar, mais não foram criados por você. Outra pessoa criou e colocou você como responsavel.   
+**Ativos:** Agentes publicados no Mapa   
+**Concedidos:** São agente onde você consegue editar, mais não foram criados por você. Outra pessoa criou e colocou você como responsável.   
 **Rascunhos:** Agente criados, e ainda não fora publicados  
-**Lixeiras:** Agentes que foram excluidos  
+**Lixeiras:** Agentes que foram excluídos  
 **Arquivo:** Agentes que foram arquivados
 
 ## MEUS ESPAÇOS
@@ -56,10 +56,10 @@ Para criar um espaço, clique no botão `Adicionar novo espaços`
 
 ![Meus Espa&#xE7;os \| Adicionar novo espa&#xE7;o](../.gitbook/assets/meu-painel08.png)
 
-Você pode: editar, exluir e arquivar os espaços, clicando no botões. 
+Você pode: editar, excluir e arquivar os espaços, clicando no botões. 
 
 Os espaços podem ser:   
-Ativos: Espaços públicados  
+Ativos: Espaços publicados  
 Concedidos: Criado por outro agente individual, que está publicado e o seu perfil de Agente Individual foi colocado como administrador  
 Rascunho: Espaços não publicados  
 Lixeira: Espaços colocados na lixeira  
@@ -117,11 +117,11 @@ Caso você tenha sido selecionado para ser parecerista \(avaliador\) de alguma o
 
 ## MINHA CONTA
 
-Neste campo você pode fazer alterações no acesso a sua conta. Como mudar de email. 
+Neste campo você pode fazer alterações no acesso a sua conta. Como mudar de e-mail. 
 
 ![Minha conta \| Email \| Guardar altera&#xE7;&#xF5;es](../.gitbook/assets/meu-painel17.png)
 
-Para alterar o email, basta colocar um email atualizado e clicar no botao `Guardar alterações`. Sua alteração será salva e quando for acessar o mapa novamente, já pode usar o email novo. 
+Para alterar o e-mail, basta colocar um e-mail atualizado e clicar no botão `Guardar alterações`. Sua alteração será salva e quando for acessar o mapa novamente, já pode usar o e-mail novo. 
 
 ![Troca Senha \| 1 Senha atual \| 2 Nova senha \| 3 Confirmar nova senha \| Guardar altera&#xE7;&#xF5;es](../.gitbook/assets/meu-painel18.png)
 

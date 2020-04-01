@@ -12,7 +12,7 @@ Este passo a passo está disponível no formato de vídeo e em texto. Vamos come
 
 ### Fazer o seu cadastro no Mapa Cultural
 
-Se você já possui castro no Mapa [siga para o próximo ponto](https://app.gitbook.com/@cultura-ceara/s/tutorial-para-o-usuario-do-mapa-cultural/~/drafts/-M3gQ1lBigpGCkdfTjCG/primeiros-passos/como-se-inscrever-nos-editais#h.xsum5wj02bui).
+Se você já possui castro no Mapa [siga para o próximo ponto](como-se-inscrever-nos-editais.md#h.xsum5wj02bui).
 
 Se você não possui cadastro é preciso criar o seu perfil no Mapa. Clique no link abaixo para ver o passo a passo.
 

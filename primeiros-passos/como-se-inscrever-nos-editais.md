@@ -23,7 +23,7 @@ Se a sua inscrição é como a pessoa jurídica ou representando um coletivo é 
 {% page-ref page="../como-contribuir/cadastro-do-agente-coletivo.md" %}
 
 {% hint style="danger" %}
-Você NÃO deve criar no Mapa uma conta específica, com e-mail e senha, para a pessoa jurídica ao coletivo. Estes perfis devem ser criados dentro da sua conta pessoa e sua administração pode ser compartilhada com outros usuários da plataforma.
+NÃO crie uma conta específica, com e-mail e senha, para a Pessoa Jurídica ou Coletivo. Estes perfis devem ser criados dentro da sua conta pessoal. 
 {% endhint %}
 
 ### Buscar a página do Edital <a id="h.xsum5wj02bui"></a>

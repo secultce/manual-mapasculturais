@@ -2,7 +2,7 @@
 
 ### Iniciar o cadastro
 
-Aqui está o link para você criar seu cadastro no Mapa Cultural do Ceará. Para se cadastrar preencha os campos com o seu nome, e-mail, crie uma senha com no mínimo 6 caracteres, confirme a senha e clique no botão `Registrar-se`.
+Aqui está o[ link para você criar seu cadastro no Mapa Cultural do Ceará](https://mapacultural.secult.ce.gov.br/autenticacao/). Para se cadastrar preencha os campos com o seu nome, e-mail, crie uma senha com no mínimo 6 caracteres, confirme a senha e clique no botão `Registrar-se`.
 
 ![Preencher os campos com Nome, E-mail e Senha.](../.gitbook/assets/como-fazer-o-seu-cadastro-no-mapa-cultural-01.png)
 

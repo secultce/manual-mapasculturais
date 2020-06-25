@@ -8,6 +8,7 @@
 * [Como fazer o seu cadastro no Mapa Cultural](primeiros-passos/como-fazer-o-seu-cadastro-no-mapa-cultural.md)
 * [Como se inscrever nos editais](primeiros-passos/como-se-inscrever-nos-editais.md)
 * [Meu painel](primeiros-passos/meu-painel.md)
+* [Como pequisar no Mapa da Cultura](primeiros-passos/pequisar-do-mapa-da-cultura.md)
 
 ## Como contribuir
 

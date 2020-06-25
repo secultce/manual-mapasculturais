@@ -28,5 +28,37 @@ Você pode colocar um capa e avatar no evento, clicando no botão editar.
 
 ![T&#xED;tulo para o evento \| Subt&#xED;tulo para o evento](../.gitbook/assets/como-criar-um-evento06.png)
 
-Precisar ser colocado um título para o evento "Show dos Batuqueiro", o subtítulo do evento é opcional.
+Precisar ser colocado um título para o evento, o subtítulo do evento é opcional.
+
+![Sobre \| Adicionar local e data](../.gitbook/assets/como-criar-um-evento08.png)
+
+Coloque as informações completa do seu evento: Descrição curta, Total de Público, Inscrições, Classificação Etária, Site, Mais Informações, Tradução para Libras e Áudio Descrição.
+
+{% hint style="warning" %}
+Todos os itens com asterisco são obrigatoria
+{% endhint %}
+
+![Salvar rascunho](../.gitbook/assets/como-criar-um-evento07.png)
+
+Após colocar as informações clique no botão salvar rascunho. E volte para o espaço Sobre, para colocar as informações de Data e Local
+
+![Adicionar local e data \| Enviar](../.gitbook/assets/como-criar-um-evento09.png)
+
+Informações adicionais e não obrigatorias, caso queira colocar uma descrição maior sobre o evento, essa informação pode ser colocar em Descrição. Se tiver video e fotos esses podem ser adicionados no respectivos botões Adicionar vídeo e Adicionar Imagem.
+
+![Descri&#xE7;&#xE3;o \| V&#xED;deos \| Galeria](../.gitbook/assets/como-criar-um-evento10.png)
+
+Você também pode colocar outros administradores do evento. Eles poderam fazer editar e fazer alterações no evento, caso seja necessario. Basta clicar no botão + para adicionar novos administradores. 
+
+![Administradores](../.gitbook/assets/como-criar-um-evento11.png)
+
+Após colocar das as informações do evento, clique no botão Publicar, para que o evento possa ficar visivel no Mapa da Cultura
+
+![Publicar](../.gitbook/assets/como-criar-um-evento15.png)
+
+Caso seja necessario fazer alterações no evento, basta acessar o Painel de Controle e acesse Meus Eventos para editar. 
+
+![Editar \| Tonar rascunho \| excluir \| arquivar](../.gitbook/assets/como-criar-um-evento14.png)
+
+
 

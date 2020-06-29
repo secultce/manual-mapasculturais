@@ -16,11 +16,11 @@ Ao clicar no botão o usuario será levando para a tela para criação do evento
 
 ![Projeto \| Linguagens \| Tag ](../.gitbook/assets/como-criar-um-evento04.png)
 
-Projeto: O evento pode ser vinculado ao projeto que você criou dentro do Mapa Cultural. Para vincular ao projeto basta clicar no botão \(caneta dentro do quadrado\) e selecionar o projeto. 
+**Projeto**: O evento pode ser vinculado ao projeto que você criou dentro do Mapa Cultural. Para vincular ao projeto basta clicar no botão \(caneta dentro do quadrado\) e selecionar o projeto. 
 
-Linguagem: Você pode selecionar a linguagem do evento, ele pode ser: Arte Visuais, Cursos ou Oficinas, Cultura Digital entre outros. 
+**Linguagem:** Você pode selecionar a linguagem do evento, ele pode ser: Arte Visuais, Cursos ou Oficinas, Cultura Digital entre outros. 
 
-Tag: Você pode colocar tag que podem ajudar na busca do seu evento dentro do Mapa Cultural
+**Tag:** Você pode colocar tag que podem ajudar na busca do seu evento dentro do Mapa Cultural
 
 ![Editar](../.gitbook/assets/como-criar-um-evento05.png)
 

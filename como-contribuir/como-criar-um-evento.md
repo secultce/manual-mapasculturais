@@ -4,11 +4,11 @@ Para criar um evento no Mapa Cultural, você precisa acessar o Painel de Control
 
 ![Painel de Controle \| Evento](../.gitbook/assets/como-criar-um-evento01.png)
 
-O primeiro pode ser feito no Painel de Controle, onde aparece as informações de Evento, Agentes, Espaços, Projetos e Oportunidade. Basta clicar no botão + para criar um novo evento.
+O primeiro pode ser feito no Painel de Controle, onde aparece as informações de Evento, Agentes, Espaços, Projetos e Oportunidade. Basta clicar no botão `+` para criar um novo evento.
 
 ![Meus Eventos  Bot&#xE3;o Adicionar novo evento](../.gitbook/assets/como-criar-um-evento02.png)
 
-A segunda opção pode ser feito clicando em Meus Eventos, onde iriá aparecer informaçoes mais detalhadas de onde o eventos ficam, quando são criados. Basta clicar no botão Adicionar novo evento, para criar o seu evento. 
+A segunda opção pode ser feito clicando em Meus Eventos, onde iriá aparecer informaçoes mais detalhadas de onde o eventos ficam, quando são criados. Basta clicar no botão `Adicionar novo evento`, para criar o seu evento. 
 
 ![Criar evento](../.gitbook/assets/como-criar-um-evento03.png)
 

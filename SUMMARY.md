@@ -26,7 +26,11 @@
 * [Como fazer a avaliação documental](oportunidades/como-fazer-a-avaliacao-documental.md)
 * [Como fazer a avaliação técnica](oportunidades/como-fazer-a-avaliacao-tecnica.md)
 
-## Perguntas Frequentes
+## Dicas e Perguntas Frequentes <a id="dicas-perguntas-frequentes"></a>
 
-* [Como faço para sair do Mapas?](perguntas-frequentes/como-sair-mapas.md)
+* [Como faço para sair do Mapas?](dicas-perguntas-frequentes/como-sair-mapas.md)
+
+---
+
+* [Oficina de análise de dados com o Mapa Cultural](https://www.youtube.com/watch?v=Rk5N-Mv3-VQ&t=3948s)
 

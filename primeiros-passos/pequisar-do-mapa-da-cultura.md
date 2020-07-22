@@ -1,5 +1,9 @@
 # Como pequisar no Mapa da Cultura
 
+{% hint style="success" %}
+Dica para quem deseja se aprofundar na análise de dados.
+{% endhint %}
+
 ### Busca pela página inicial
 
 Ao acessar o mapa você terá acesso à página inicial do sistema. Existem duas áreas que valem a pena comentar.

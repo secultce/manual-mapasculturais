@@ -69,7 +69,8 @@ _Outras Referências:_
 ### 📱 Aplicativos utilizados
 
 * [https://coggle.it/](https://coggle.it/) para o desenhar a estrutura no formato de mapa mental
-* [https://getgreenshot.org/](https://getgreenshot.org/) para printar a tela e fazer edições na imagem
+* [https://getgreenshot.org/](https://getgreenshot.org/) para printar a tela e fazer anotações na imagem \(windows\)
+* [https://github.com/ksnip/ksnip](https://github.com/ksnip/ksnip) para printar a tela e fazer anotações na imagem \(linux\)
 * [https://obsproject.com/](https://obsproject.com/) para a gravação da tela
 * [https://www.gitbook.com/](https://www.gitbook.com/) para organizar a documentação
 

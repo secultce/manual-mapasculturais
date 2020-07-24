@@ -4,7 +4,7 @@ description: Procedimento para solicitar a exclusão da conta no Mapa Cultural d
 
 # Como faço para sair do Mapas?
 
-Você deverá enviar um e-mail para **mapa@secult.ce.gov.br** com as seguintes informações.
+Você deverá enviar um e-mail para **mapacultural@secult.ce.gov.br** com as seguintes informações.
 
 {% hint style="danger" %}
 Você deve enviar a mensagem utilizando a mesma conta de e-mail cadastrada no Mapa Cultural.

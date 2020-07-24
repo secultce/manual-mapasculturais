@@ -26,7 +26,7 @@ Preencha as informações obrigatórias para validar o seu perfil de agente cole
 1. Nome pessoal, social, artístico ou profissional
 2. Descrição curta
 3. Nome ou Razão Social
-4. Email Principal
+4. E-mail Principal
 5. Telefone Principal
 6. Localização
 7. Área de atuação
@@ -78,7 +78,7 @@ Para adicionar as imagens, desça para a seção **galeria** e clique no botão 
 
 ![](../.gitbook/assets/2020-01-13-14_31_15-mapa-cultural-do-ceara-secretaria-da-cultura-do-estado-do-ceara-secultce-m.png)
 
-Para adicionar videos clique no botão `Adicionar vídeo`. Você pode adicionar o link de um vídeo que está no **youtube ou no vímeo**. Cole o link do vídeo no campo indicado abaixo, escreva um título e clique em `Enviar`. Feito isso, você verá que o vídeo será adicionado automaticamente na página do seu perfil.
+Para adicionar vídeos clique no botão `Adicionar vídeo`. Você pode adicionar o link de um vídeo que está no **youtube ou no vímeo**. Cole o link do vídeo no campo indicado abaixo, escreva um título e clique em `Enviar`. Feito isso, você verá que o vídeo será adicionado automaticamente na página do seu perfil.
 
 ![](../.gitbook/assets/salvar-video.png)
 

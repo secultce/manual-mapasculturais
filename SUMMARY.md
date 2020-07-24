@@ -15,8 +15,6 @@
 * [Cadastro do Agente Coletivo](como-contribuir/cadastro-do-agente-coletivo.md)
 * [Como colaborar com o projeto Mapas Culturais](como-contribuir/como-colaborar-com-o-projeto-mapas-culturais.md)
 * [Como criar um Evento](como-contribuir/como-criar-um-evento.md)
-* [Como criar um projeto](como-contribuir/como-criar-um-projeto.md)
-* [Como fazer inscrição na oportunidade](como-contribuir/como-fazer-inscricao-na-oportunidade.md)
 
 ## Oportunidades no Mapas <a id="oportunidades"></a>
 

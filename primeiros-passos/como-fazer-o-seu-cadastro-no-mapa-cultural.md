@@ -27,9 +27,13 @@ Nesta primeira parte da tela os campos obrigatórios são:
 3. Nome completo
 4. Área de atuação: é uma lista com opções definidas. A medida que você escreve aparecem as opções. Você pode escolher quantas áreas quiser. 
 
-> Dica 1: utilize o campo de `TAGS` \(palavras chave\) caso você queria detalhar a sua área de atuação ou inserir uma área que não está listada.
+{% hint style="success" %}
+Dica 1: utilize o campo de `TAGS` \(palavras chave\) caso você queria detalhar a sua área de atuação ou inserir uma área que não está listada. 
+{% endhint %}
 
-> Dica 2: Caso pretenda participar de alguma chamada ou edital você também deverá preencher os campos desta lista.
+{% hint style="success" %}
+Dica 2: Caso pretenda participar de alguma chamada ou edital você também deverá preencher os campos desta lista.
+{% endhint %}
 
 ![1 - CPF \| 2 - e-mail principal \| 3 - telefone principal.](../.gitbook/assets/como-fazer-o-seu-cadastro-no-mapa-cultural-03.png)
 
@@ -47,7 +51,9 @@ Por fim é preciso preencher as informações do endereço e clicar em `Salvar.`
 2. Localização: neste campo você informar se o seu endereço deve ficar como `Público` \(todos do mapas podem encontrar o seu endereço\) ou `Privado` \(somente você e as pessoas que criarem as oportunidade podem ter acesso ao seu endereço\)
 3. Botão Salvar
 
-> Após clicar no botão de salvar, note que os campos não estão mais marcados de amarelo, indicando que suas informações foram salvas.
+{% hint style="info" %}
+Após clicar no botão de salvar, note que os campos não estão mais marcados de amarelo, indicando que suas informações foram salvas.
+{% endhint %}
 
 ### Como adicionar documentos e links
 
@@ -57,7 +63,9 @@ Você também pode anexar dados profissionais ao seu perfil. Veja como fazer:
 2.  **Incluir links de áudio e outros sites.** Clique no sinal de `+` ao lado da guia `LINKS`, que está na lateral direita. Primeiro cole o endereço do link que você deseja incluir no perfil, depois digite o título que aparecerá e, por fim, clique no botão `Enviar`. Agora você verá que o link aparecerá automaticamente na seção `LINKS`.
 3. **Incluir links das redes sociais.**    No lado direito, você encontra a seção `SEGUIR` com o ícone das redes sociais Twitter, Facebook e Google +. Clicando em cada uma delas, você pode adicionar o endereço das suas redes sociais ao seu perfil do mapa.
 
-> Dica 3: fizemos [este manual com dicas de como juntar e compactar arquivos no formato PDF](https://cultura-ceara.gitbook.io/dicas/).
+{% hint style="success" %}
+Dica 3: fizemos [este manual com dicas de como juntar e compactar arquivos no formato PDF](https://cultura-ceara.gitbook.io/dicas/).
+{% endhint %}
 
 ![1 - subir arquivos \| 2 - adicionar links \| 3 - adicionar links das redes sociais.](../.gitbook/assets/como-fazer-o-seu-cadastro-no-mapa-cultural-05.png)
 

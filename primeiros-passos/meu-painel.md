@@ -12,7 +12,7 @@ Para criar novos eventos, agente, espaços e projetos basta clicar no botão +.
 
 ![](../.gitbook/assets/meu-painel03.png)
 
-## MEUS EVENTOS
+## Meus Eventos
 
 Acessando Meus Eventos, você também pode clicar no botão `Adicionar novo evento`, assim criando eventos. 
 
@@ -28,7 +28,7 @@ No Painel de Controle acessando meus eventos, você consegue visualizar 5 abas: 
 **Lixeira:** Eventos criados que foram descartados e jogando na lixeira  
 **Aquivo**: Eventos que foram criados, publicados e arquivado pelo agente responsável pelo evento
 
-## MEUS AGENTES
+## Meus Agentes
 
 Neste campo você pode ter acesso aos Agentes Individuais e Coletivos e também adicionar novos agentes, clicando no botão `Adicionar novo agente`. 
 
@@ -48,7 +48,7 @@ Acessando Meus Agentes voccê pode visualizar todos os seus agentes ativos, conc
 **Lixeiras:** Agentes que foram excluídos  
 **Arquivo:** Agentes que foram arquivados
 
-## MEUS ESPAÇOS
+## Meus Espaços
 
 Neste campo você pode criar e editas espaços. Os espaços podem ser Pontos de Cultura, Escolas, Equipamentos Culturais, entre outros.
 
@@ -59,15 +59,15 @@ Para criar um espaço, clique no botão `Adicionar novo espaços`
 Você pode: editar, excluir e arquivar os espaços, clicando no botões. 
 
 Os espaços podem ser:   
-Ativos: Espaços publicados  
-Concedidos: Criado por outro agente individual, que está publicado e o seu perfil de Agente Individual foi colocado como administrador  
-Rascunho: Espaços não publicados  
-Lixeira: Espaços colocados na lixeira  
-Arquivo: Espaços arquivados
+**Ativos**: Espaços publicados  
+**Concedidos**: Criado por outro agente individual, que está publicado e o seu perfil de Agente Individual foi colocado como administrador  
+**Rascunho**: Espaços não publicados  
+**Lixeira**: Espaços colocados na lixeira  
+**Arquivo**: Espaços arquivados
 
 ![Bot&#xF5;es: Editas, Excluir e Arquivar \| Ativos, Concedidos, Rascunho, Lixeira, Arquivo](../.gitbook/assets/meu-painel09.png)
 
-## MEUS PROJETOS
+## Meus Projetos
 
 Nesse local você pode acessar os projetos que foram criados e publicados. Para criar projetos basta clicar no botão `Adicionar novos projeto`
 
@@ -83,9 +83,9 @@ Os projetos podem ser:
 
 ![Editar \| Excluir \| Arquivar \| Ativo \| Condecido \| Rascunho \| Lixeira \| Arquivo](../.gitbook/assets/meu-painel11.png)
 
-## MINHAS OPORTUNIDADES
+## Minhas Oportunidades
 
-Aqui você tem acesso e gerenciar as oportunidades criadas dentros do projetos. 
+Aqui você tem acesso e gerenciar as oportunidades criadas detros do projetos. 
 
 {% hint style="info" %}
 Ver em Como criar uma oportunidade 
@@ -93,7 +93,7 @@ Ver em Como criar uma oportunidade
 
 ![Minhas Oportunidades \| Editar \| Publicar \| Excluir](../.gitbook/assets/meu-painel12.png)
 
-## MINHAS INSCRIÇÕES
+## Minhas Inscrições
 
 Aqui você tem acesso as suas inscrições feitas em oportunidades oferecidas dentro da plataforma do Mapa da Cultura. 
 
@@ -109,13 +109,13 @@ Você também pode acessar as inscrições que foram enviadas, apenas para visua
 
 ![Minhas Inscri&#xE7;&#xF5;es \| Rascunho](../.gitbook/assets/meu-painel15.png)
 
-## MINHAS AVALIAÇÕES
+## Minhas Avaliações
 
 Caso você tenha sido selecionado para ser parecerista \(avaliador\) de alguma oportunidade aberta no Mapa da Cultura. Você também pode acessar pelo campo Minhas Avaliações.
 
 ![Minhas Avalia&#xE7;&#xF5;es](../.gitbook/assets/meu-painel16.png)
 
-## MINHA CONTA
+## Minha Conta
 
 Neste campo você pode fazer alterações no acesso a sua conta. Como mudar de e-mail. 
 

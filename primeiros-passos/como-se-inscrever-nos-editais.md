@@ -124,10 +124,6 @@ Após verificar as informações da sua inscrição e ver que tudo está correto
 Atenção: essa ação é definitiva, certifique-se que todos os documentos e dados estão em ordem.
 {% endhint %}
 
-{% hint style="info" %}
-
-{% endhint %}
-
 Sua inscrição foi concluída! Perceba que você será direcionado para uma página com todos os dados do proponente e do questionário preenchido.
 
 ![Inscri&#xE7;&#xE3;o enviada](../.gitbook/assets/passo-a-passo-para-inscricao-20.png)

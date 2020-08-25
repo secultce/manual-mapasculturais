@@ -5,7 +5,7 @@ Manual do usuário para a plataforma Mapa Cultural do Ceará. &gt;&gt; [https://
 _Temos:_
 
 * [A estrutura do manual](https://coggle.it/diagram/XfeOoGj7x0kesEKq/t/estrutura-tutorial-mapa-cultural) \(adicionamos links aos tópicos criados\)
-* [Guia para formatação do manual](https://cultura-ceara.gitbook.io/tutorial-para-o-usuario-do-mapa-cultural/como-contribuir/como-colaborar-com-o-projeto-mapas-culturais/formatacao-do-manual)
+* [Guia para formatação do manual](https://cultura-ceara.gitbook.io/tutorial-para-o-usuario-do-mapa-cultural/como-contribuir/como-colaborar-com-o-projeto-mapas-culturais#guia-para-formatacao-do-manual)
 
 ### ✌ Como colaborar
 

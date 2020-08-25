@@ -42,11 +42,7 @@ _Roteiros e tutoriais em texto:_
 * [Passo a Passo para gerar o parecer individual da Habilitação das Inscrições](https://docs.google.com/document/d/1aU2gruR6Hi09aAqTH_yAX8ZBdbWSUbyAMEFSP52wtl0)
 * [Como criar um projeto no mapa cultural](https://docs.google.com/document/d/1HosOZ0ReHoXlD3hal4-Y8r51kL_qwRGLL7jwZns1SL8)
 * [Roteiro criado pela Ali para criação dos agentes](https://docs.google.com/document/d/1usS4tPiNFUT8_FzErsR5l69_PzhNoqqs6UyuRpzSd4I/edit#%20)
-* [Manual inicial pelo Miguel](https://drive.google.com/drive/u/0/folders/0B4Q7Y_cuhmVKdkNtR3dRcjBTSG8)
-* [Texto sobre como criar um projeto no mapa com o módulo de editais](https://docs.google.com/document/d/1HosOZ0ReHoXlD3hal4-Y8r51kL_qwRGLL7jwZns1SL8)
-
-  [Introdução ao Modulo de Oportunidade](https://docs.google.com/document/d/1HosOZ0ReHoXlD3hal4-Y8r51kL_qwRGLL7jwZns1SL8)
-
+* [Texto sobre como criar um projeto no mapa com o módulo de editais](https://docs.google.com/document/d/1HosOZ0ReHoXlD3hal4-Y8r51kL_qwRGLL7jwZns1SL8) 
 * [Passo a Passo para Etapa de Avaliação da Proposta para os avaliadores](https://docs.google.com/document/d/1Iqgh5RxibYGYlpbypT3_2u096bIbB-82bofSuh5g29I/edit)
 
 _Roteiros e tutoriais em vídeo:_

@@ -28,4 +28,5 @@
 
 * [Oficina de análise de dados com o Mapa Cultural](https://www.youtube.com/watch?v=Rk5N-Mv3-VQ&t=3948s)
 * [Como faço para sair do Mapas?](dicas-perguntas-frequentes/como-sair-mapas.md)
+* [Como solicitar a alteração de e-mail](dicas-perguntas-frequentes/como-solicitar-a-alteracao-de-e-mail.md)
 
